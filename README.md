@@ -22,7 +22,10 @@ Tools and Resources: Money management systems often leverage tools such as budge
 
 Long-Term Financial Stability: The ultimate aim of a money management system is to achieve and maintain long-term financial stability, ensuring financial well-being and security for the future.
 
+![image](https://github.com/Bhuvaneshwari-H/Money_Management_System/assets/85927519/88f408a9-848f-47b1-989e-2e4082ca01d1)
 
-![image](https://github.com/Bhuvaneshwari-H/Money_Management_System/assets/85927519/ddf6aaec-d850-4f42-9315-679a777293f5)
+![image](https://github.com/Bhuvaneshwari-H/Money_Management_System/assets/85927519/0740ed21-95f3-4891-950a-c3dd5f9f4f67)
 
-![image](https://github.com/Bhuvaneshwari-H/Money_Management_System/assets/85927519/211b32b2-f80b-4dd4-b72a-6a6da4de8926)
+
+
+
